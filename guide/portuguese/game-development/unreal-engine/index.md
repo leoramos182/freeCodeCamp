@@ -31,6 +31,11 @@ O Unreal passou por quatro grandes revisões. Embora algum código seja comum en
 *   Borderlands
 *   Engrenagens da guerra
 
+### Unreal e multiplayer competitivo 
+*   Conhecido como E-Sports, Unreal participa com destaque deste novo cenário mundial, sendo utilizada para o desenvolvimento de jogos que alcançaram grande destaque, como:
+*   Rocket League - Psyonix
+*   Fortnite - Epic Games
+*   Paladins - Hi-Rez Studios
 #### Mais Informações:
 
 [www.UnrealEngine.com](https://www.unrealengine.com/)  
